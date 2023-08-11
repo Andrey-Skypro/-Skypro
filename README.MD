@@ -22,7 +22,7 @@
 
 - [Checklists](https://chlist.sitechco.ru/project)
 - [Test-Suites and Test-Cases](https://app.qase.io/projects)
-- [Bug-Reports](https://qa-bug-report2624.atlassian.net/l/cp/jqSnzY3f)
+- [Confluence](https://qa-bug-report2624.atlassian.net/l/cp/jqSnzY3f)
 - [SQL Queries]()
 - [Postman Collections]("C:\Users\Андрей\Downloads\Curs API.postman_test_run.json")
 
