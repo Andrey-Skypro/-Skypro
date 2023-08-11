@@ -23,8 +23,7 @@
 - [Checklists](https://chlist.sitechco.ru/project) Login: andrey1985-tilda@yandex.ru Password: phaikrd9nt
 - [Test-Suites and Test-Cases](https://app.qase.io/projects) Login: Andrew19852624@yandex.ru Password: @Q111111
 - [Confluence](https://qa-bug-report2624.atlassian.net/l/cp/jqSnzY3f) Login: Andrew19852624@yandex.ru Password: @Q111111
-- [SQL Queries]()
-- [Postman Collections]("C:\Users\Андрей\Downloads\Curs API.postman_test_run.json")
+
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/TenChat-090909?style=for-the-badge&logo=tenchat&logoColor=9939a3)](https://tenchat.ru/2269356?utm_source=9c64be0d-fdbd-4a9d-a18a-6c37fbbbc31f)
