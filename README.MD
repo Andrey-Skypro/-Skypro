@@ -11,7 +11,7 @@
 ![Header](https://img.shields.io/badge/Tilda-090909?style=for-the-badge&logo=tilda&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/Mockun-090909?style=for-the-badge&logo=mockun&logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a)
-![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
@@ -20,9 +20,9 @@
 
 ### Testing Documentation
 
-- [Checklists](https://chlist.sitechco.ru/project)
+- [Checklists](https://chlist.sitechco.ru/project) Login: andrey1985-tilda@yandex.ru Password: phaikrd9nt
 - [Test-Suites and Test-Cases](https://app.qase.io/projects) Login: Andrew19852624@yandex.ru Password: @Q111111
-- [Confluence](https://qa-bug-report2624.atlassian.net/l/cp/jqSnzY3f)
+- [Confluence](https://qa-bug-report2624.atlassian.net/l/cp/jqSnzY3f) Login: Andrew19852624@yandex.ru Password: @Q111111
 - [SQL Queries]()
 - [Postman Collections]("C:\Users\Андрей\Downloads\Curs API.postman_test_run.json")
 
