@@ -1,7 +1,7 @@
 ### Портфолио
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV]https://hh.ru/resume/650cff08ff02c876720039ed1f4d4b537a7664)
+Link to my CV: https://hh.ru/resume/650cff08ff02c876720039ed1f4d4b537a7664
 
 
 ### Language and Tools
