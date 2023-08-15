@@ -58,7 +58,7 @@ Link to my CV: https://hh.ru/resume/650cff08ff02c876720039ed1f4d4b537a7664
 - [Checklists](https://chlist.sitechco.ru/project) Login: andrey1985-tilda@yandex.ru Password: phaikrd9nt
 - [Test-Suites and Test-Cases](https://app.qase.io/projects) Login: Andrew19852624@yandex.ru Password: @Q111111
 - [Confluence](https://qa-bug-report2624.atlassian.net/l/cp/jqSnzY3f) Login: Andrew19852624@yandex.ru Password: @Q111111
--[Attestation](https://docs.google.com/document/d/1Wg_zhtq1xUICePdZIovWTSJAKIF8OHSfgLQxXtS9904/edit?usp=sharing)
+- [Attestation](https://docs.google.com/document/d/1Wg_zhtq1xUICePdZIovWTSJAKIF8OHSfgLQxXtS9904/edit?usp=sharing)
 
 
 ### Follow Me
